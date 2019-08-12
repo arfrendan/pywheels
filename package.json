@@ -1,0 +1,20 @@
+{
+  "name": "pi",
+  "version": "1.0.0",
+  "description": "first contact",
+  "main": "index.js",
+  "dependencies": {
+    "bleno": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'first contact'"
+  },
+  "keywords":[
+  "pi"
+  "nodejs"
+  "rpi3"
+  ]
+  "author": "",
+  "license": "ISC"
+}
